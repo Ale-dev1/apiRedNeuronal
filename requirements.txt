@@ -1,5 +1,5 @@
-fastapi
-uvicorn
-tensorflow
+fastapi==0.121.0
+uvicorn==0.38.0
+tensorflow==2.20.0
 scikit-learn==1.2.2
 numpy==1.25.2
